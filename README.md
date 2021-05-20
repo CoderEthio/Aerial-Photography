@@ -13,3 +13,4 @@ Run the React Project
 
 ::::::::::::::::::::
 
+![alt text](app_image.png)
