@@ -13,4 +13,4 @@ Run the React Project
 
 ::::::::::::::::::::
 
-![alt text](app_image.png)
+![alt text](https://github.com/CoderEthio/Aerial-Photography/blob/main/app_image.PNG)
